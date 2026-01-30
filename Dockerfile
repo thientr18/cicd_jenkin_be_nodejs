@@ -17,15 +17,3 @@ COPY . .
 EXPOSE 8088
 
 CMD ["node","server.js"]
-
-# docker build . -t img-node
-
-# html
-# react
-# nodejs express
-# nextjs FE-BE
-# nestjs BE
-# .NET
-# mysql
-# postgres
-# sql server
